@@ -1,10 +1,10 @@
-# 🚗💨 Neon Velocity 3D: Ultimate
+# 🚗💨 Neon Velocity
 
 <div align="center">
 
 ![Neon Velocity](public/img1.png)
 
-**A high-octane 3D racing game built with Three.js**
+**A futuristic browser-based racing game built with Three.js**
 
 [🎮 Play Now](https://bhanu2006-24.github.io/neon-velocity/) | [Report Bug](https://github.com/bhanu2006-24/neon-velocity/issues) | [Request Feature](https://github.com/bhanu2006-24/neon-velocity/issues)
 
@@ -15,6 +15,10 @@
 ## 🌟 About
 
 **Neon Velocity** is an adrenaline-pumping 3D racing game where you navigate through neon-lit highways at blazing speeds. Dodge traffic, collect power-ups, and push your skills to the limit in this cyberpunk-inspired endless runner.
+
+## 👨‍💻 Developer
+
+**Thirusenthilkumar C**
 
 ## ✨ Features
 
@@ -101,6 +105,7 @@ neon-velocity/
 │   ├── img1.png
 │   ├── img2.png
 │   └── img3.png
+├── vercel.json        # Deployment configuration
 ├── README.md
 ├── LICENSE
 └── .gitignore
@@ -123,10 +128,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🎮 Play Online
 
 **Live Demo**: [https://bhanu2006-24.github.io/neon-velocity/](https://bhanu2006-24.github.io/neon-velocity/)
-
-## 👨‍💻 Developer
-
-**Bhanu Pratap Saini**
 
 ---
 
