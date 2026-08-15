@@ -6,7 +6,7 @@
 
 **A futuristic browser-based racing game built with Three.js**
 
-[🎮 Play Now](https://bhanu2006-24.github.io/neon-velocity/) | [Report Bug](https://github.com/bhanu2006-24/neon-velocity/issues) | [Request Feature](https://github.com/bhanu2006-24/neon-velocity/issues)
+[🎮 Play Now](https://thirusenthilkumarc.github.io/Car-Race-Game/) | [Report Bug](https://github.com/ThirusenthilkumarC/Car-Race-Game/issues) | [Request Feature](https://github.com/ThirusenthilkumarC/Car-Race-Game/issues)
 
 </div>
 
@@ -19,6 +19,10 @@
 ## 👨‍💻 Developer
 
 **Thirusenthilkumar C**
+
+## 🎮 Live Demo
+
+[Play Neon Velocity](https://thirusenthilkumarc.github.io/Car-Race-Game/)
 
 ## ✨ Features
 
@@ -61,12 +65,12 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/bhanu2006-24/neon-velocity.git
+git clone https://github.com/ThirusenthilkumarC/Car-Race-Game.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd neon-velocity
+cd Car-Race-Game
 ```
 
 3. Open `index.html` in your browser or use a local server:
@@ -124,10 +128,6 @@ Contributions are welcome! Feel free to:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🎮 Play Online
-
-**Live Demo**: [https://bhanu2006-24.github.io/neon-velocity/](https://bhanu2006-24.github.io/neon-velocity/)
 
 ---
 
